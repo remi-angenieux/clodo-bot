@@ -3,7 +3,7 @@
 This script allow you to win really easily at clodogame.fr browser game.
 No action is needed, it can play for you!
 
-*/!\ This is a very old script, I created in the 2011 years. I hope for Farbflut Entertainment team, theses kind of scripts is detected! /!\*
+> /!\ This is a very old script, I created in the 2011 years. I hope for Farbflut Entertainment team, theses kind of scripts is detected! /!\
 
 ### cron_jeu.php
 This bot will connect on clodogame website, collect bottles and disconnect.
@@ -17,7 +17,7 @@ Bot will retreives opponent animal, player rank state (increasing or not). And b
 Ce script vous permet de briller sur clodogame.fr
 Aucune action de votre part est demandé, il joue pour vous !
 
-*/!\ C'est un très vieux script. Je l'ai créé en 2011. J'espère pour l'équipe de Farbflut Entertainment team, que ce genre de script est détetcté /!\*
+> /!\ C'est un très vieux script. Je l'ai créé en 2011. J'espère pour l'équipe de Farbflut Entertainment team, que ce genre de script est détetcté /!\
 
 ### cron_jeu.php
 Ce robot va se connecte sur le site de clodogame, ramasser des bourteilles et se déconnecter.
